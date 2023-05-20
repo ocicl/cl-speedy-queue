@@ -1,0 +1,9 @@
+* cl-speedy-queue
+
+Lightweight, optimized queue implementation for CL
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/zkat/cl-speedy-queue.git |
+| commit  | 0425c7c                                         |
+| systems | cl-speedy-queue                                 |
+|---------+-------------------------------------------------|
