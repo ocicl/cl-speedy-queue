@@ -7,4 +7,4 @@ Lightweight, optimized queue implementation for CL
 | commit  | 0425c7c                                         |
 | systems | cl-speedy-queue                                 |
 |---------+-------------------------------------------------|
- 
+  
